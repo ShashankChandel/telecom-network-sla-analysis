@@ -1,0 +1,5 @@
+Region,Total_Tickets,Resolved_Tickets,SLA_Target,Resolution_Rate,SLA_Status
+Mumbai,120,114,95,95.0,Met
+Pune,95,90,95,94.74,Breached
+Nashik,80,68,90,85.0,Breached
+Nagpur,105,100,95,95.24,Met
