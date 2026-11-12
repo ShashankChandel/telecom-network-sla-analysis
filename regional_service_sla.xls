@@ -1,0 +1,41 @@
+Region,Service_Type,Incidents,SLA_Breaches,Avg_MTTR_Hours,SLA_Compliance_Pct
+Mumbai,MPLS,118,43,23.2,63.56
+Nashik,SIP Trunk,111,37,22.07,66.67
+Pune,ILL,112,36,20.61,67.86
+Thane,Fibre,119,38,20.5,68.07
+Nagpur,ILL,113,36,20.06,68.14
+Aurangabad,Ethernet,110,34,21.03,69.09
+Nagpur,Fibre,126,38,19.08,69.84
+Amravati,ILL,120,36,22.05,70.0
+Kolhapur,ILL,117,35,19.49,70.09
+Amravati,MPLS,129,38,16.38,70.54
+Thane,SIP Trunk,123,36,20.68,70.73
+Kolhapur,SIP Trunk,131,38,21.62,70.99
+Nagpur,MPLS,100,29,20.8,71.0
+Amravati,SIP Trunk,128,37,20.81,71.09
+Nagpur,SIP Trunk,111,32,25.46,71.17
+Nashik,ILL,115,33,15.41,71.3
+Aurangabad,ILL,129,37,19.66,71.32
+Pune,SIP Trunk,126,36,15.96,71.43
+Kolhapur,Fibre,121,34,21.16,71.9
+Nashik,MPLS,132,37,21.49,71.97
+Nashik,Fibre,133,37,23.21,72.18
+Thane,ILL,134,37,17.76,72.39
+Mumbai,SIP Trunk,120,33,18.14,72.5
+Mumbai,Fibre,110,30,19.93,72.73
+Pune,Fibre,100,27,17.84,73.0
+Mumbai,Ethernet,120,32,18.61,73.33
+Pune,Ethernet,114,30,19.39,73.68
+Pune,MPLS,99,26,21.73,73.74
+Amravati,Ethernet,107,28,18.76,73.83
+Nashik,Ethernet,130,34,24.05,73.85
+Aurangabad,Fibre,134,35,18.49,73.88
+Thane,MPLS,112,29,17.56,74.11
+Thane,Ethernet,95,24,20.68,74.74
+Amravati,Fibre,132,33,19.67,75.0
+Kolhapur,Ethernet,114,28,16.98,75.44
+Nagpur,Ethernet,114,28,21.96,75.44
+Aurangabad,SIP Trunk,123,29,18.54,76.42
+Mumbai,ILL,117,26,18.83,77.78
+Kolhapur,MPLS,116,23,16.61,80.17
+Aurangabad,MPLS,141,24,15.73,82.98

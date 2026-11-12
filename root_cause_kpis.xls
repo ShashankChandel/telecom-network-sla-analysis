@@ -1,0 +1,8 @@
+Root_Cause,Total_Incidents,SLA_Breached,Avg_MTTR_Hours,Total_Customers_Affected,Breach_Rate_Pct
+Carrier Issue,679,202,19.46,165797,29.75
+Fibre Cut,631,184,19.06,161678,29.16
+Congestion,724,203,19.26,182748,28.04
+Power Failure,720,200,20.24,176819,27.78
+Hardware Failure,678,182,20.18,161619,26.84
+Configuration Error,662,174,20.79,163529,26.28
+Planned Maintenance,662,168,19.4,167387,25.38

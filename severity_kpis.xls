@@ -1,0 +1,5 @@
+Severity,Total_Incidents,SLA_Breaches,Avg_MTTA_Hours,Avg_MTTR_Hours,Total_Customers_Affected,SLA_Compliance_Pct
+P1,246,170,0.78,10.6,63160,30.89
+P2,735,421,1.49,14.56,181069,42.72
+P3,2403,573,3.71,20.16,595779,76.15
+P4,1372,149,3.74,23.53,339569,89.14
