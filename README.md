@@ -31,3 +31,6 @@ against defined Service Level Agreement (SLA) targets.
 ## Important Note
 This project uses synthetic sample data for learning and demonstration.
 It does not contain actual customer or company data.
+## Dashboard Preview
+
+![Telecom SLA Performance Dashboard](telecom_sla_dashboard.png)
